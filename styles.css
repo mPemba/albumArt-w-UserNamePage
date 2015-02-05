@@ -27,7 +27,7 @@ html, body {
 	width: 150px;
 }
 .btn:hover {
-	background: hsl(359, 42%, 41%);
+	background: hsl(202, 60%, 15%);
 	color: hsl(0, 0%, 98%);
 }
 /* any text inputs will be under form-control */
@@ -134,8 +134,26 @@ html, body {
 	height: 30px;
 	width: 30px;
 }
-.fa:hover {
+/*.fa:hover {
 	color: hsl(202, 49%, 36%);
+}*/
+.bandcamp:hover {
+	color: hsl(179, 100%, 44%);
+}
+.soundcloud:hover {
+	color: hsl(18, 100%, 50%);
+}
+.facebook:hover {
+	color: hsl(333, 82%, 59%);
+}
+.github:hover {
+	color: hsl(47, 98%, 54%);
+}
+.gPlus:hover {
+	color: hsl(4, 67%, 52%);
+}
+.linkedin:hover {
+	color: hsl(145, 74%, 47%);
 }
 .messageBox {
 	text-align: center;
